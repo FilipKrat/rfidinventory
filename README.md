@@ -17,7 +17,7 @@ MongoDb database
 ## Links
 [App Heroku deploy](https://rfidinventory.herokuapp.com)
 
-[Git repository](https://github.com/FilipKrat/Messenger/blob/master/apiary.apib)
+[Git repository](https://github.com/FilipKrat/rfidinventory)
 
 ## API Specification
 
