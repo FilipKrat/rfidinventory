@@ -26,7 +26,7 @@
     "react-share": "^2.4.0",
     "react-swipeable-views": "0.13.1",
     "serve": "11.0.0",
-    "xlsx": "^0.15.6"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "start": "react-scripts start",
